@@ -1,0 +1,23 @@
+name: DanBlam
+favicon: null
+layout_spectrum: 0.5740207210183144
+typography_spectrum: 0.6627787665929645
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.23471073783002794
+  lightness: 0.9380071084015071
+  saturation: 0.3147348570637405
+  rhythmicContrast: 0.3352694120258093
+purpose: []
